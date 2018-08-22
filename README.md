@@ -1,8 +1,12 @@
 # Cosmic-Rays-Generator
 This program was created by PhD. Sergio Bonaque-Gonzalez, Optical Engineer.
+
 sbonaque@wooptix.com    
+
 www.linkedin.com/in/sergiobonaque
+
 I am open to include any request or any contribution.
+
 
 Files with pre-generated cosmic rays were obtained from a public repository, however I am unable to find it again and I therefore I can´t cite it. If you know the repository name, please let me know so I can include it here.
 
