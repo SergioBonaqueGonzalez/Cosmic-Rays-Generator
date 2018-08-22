@@ -1,4 +1,4 @@
-% Created by PhD. Sergio Bonaque-González
+% Created by PhD. Sergio Bonaque-GonzÃ¡lez
 % Optical Engineer
 % sergiob@wooptix.com
 
@@ -34,7 +34,7 @@ if numero ==0
     [row,col]=find(loop==1);
     numerototal=numel(row); 
     numerototal2=numerototal;
-    rayos = randi([1 130],1,numerototal);%choosing between the 130 pre-generated cosmic rays.
+    rayos = randi([1 97],1,numerototal);%choosing between the 97 pre-generated cosmic rays.
     
     rayopre=cell(1,numerototal);
     for i=1:numerototal
@@ -101,7 +101,7 @@ if numero >0
     end
     numerototal=numel(row);
     numerototal2=numerototal;
-    rayos = randi([1 130],1,numerototal);
+    rayos = randi([1 97],1,numerototal);
     
     rayopre=cell(1,numerototal);
     for i=1:numerototal
