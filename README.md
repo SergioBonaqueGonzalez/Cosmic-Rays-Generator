@@ -10,7 +10,7 @@ I am open to include any request or any contribution.
 
 Files with pre-generated cosmic rays were obtained from a public repository, however I am unable to find it again and I therefore I can´t cite it. If you know the repository name, please let me know so I can include it here.
 
-This program calculates the humber of cosmic rays hitting in a CCD and return the intensity image with random cosmic rays incorporates. The probability is calculated as a function of average number of cosmic rays per cm^2 and second, pixel size and exposition time. Density of cosmic rays is considered fixed in a quantity of 0.6/cm^2/15 seconds according to Kirk Gilmore. 
+This program calculates the humber of cosmic rays hitting in a CCD and return the intensity image with random cosmic rays incorporated. The probability is calculated as a function of average number of cosmic rays per cm^2 and second, pixel size and exposition time. Density of cosmic rays is considered fixed in a quantity of 0.6/cm^2/15 seconds according to Kirk Gilmore. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 SYNTAX: The function is called with the form:
