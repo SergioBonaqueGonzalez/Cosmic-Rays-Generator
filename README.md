@@ -1,7 +1,7 @@
 # Cosmic-Rays-Generator
 This program was created by PhD. Sergio Bonaque-Gonzalez, Optical Engineer.
 
-sbonaque@wooptix.com    
+sergio.bonaque.gonzalez@gmail.com
 
 www.linkedin.com/in/sergiobonaque
 
